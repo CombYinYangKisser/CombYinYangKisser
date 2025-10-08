@@ -4,7 +4,7 @@
 "Я шарю за многие фандомы! я обожаю играть в Пони Таун, общаться с друзьями, или заводить новые знакомства!"
 "Если вы не против со мной подружиться, то не бойтесь мне писать в телеграм!"
 "Water! DR. FIZZ! Water! DR. FIZZ!"
-"Let's make an Earthquake! Ehahahahahaha!!!~"
+"Let's make an Earthquake!"
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/62c96976-1e85-4548-8616-f2f313db1fc3" />
 
 
